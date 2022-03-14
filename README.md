@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/humayanalrosid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="humayanalrosid" height="30" width="40" /></a>
-<a href="https://twitter.com/humayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humayanar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/humayan-al-rosid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayan-al-rosid" height="30" width="40" /></a>
-<a href="https://fb.com/humayan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayan01" height="30" width="40" /></a>
+<a href="https://dev.to/humayanalrosid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="humayanalrosid" height="30" width="40" /></a>
+<a href="https://twitter.com/humayanar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humayanar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/humayan-al-rosid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayan-al-rosid" height="30" width="40" /></a>
+<a href="https://fb.com/humayan01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayan01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
