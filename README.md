@@ -13,8 +13,7 @@
 - 💬 Ask me about **Python (Advanced beginner)**
 - 📫 How to reach me **humayanalrosid3@gmail.com**
 - ⚡ Fun fact: ***Mathematics Student*** 🙂
-- 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -35,5 +34,4 @@
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid)  
-
 
