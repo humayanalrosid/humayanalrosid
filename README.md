@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humayanalrosid
 - 👀 I’m interested in **_Django Development_**
 - 🌱 I’m currently learning **Python**
-- 📱 Fb.com/humayan01
+- 📱 Facebook - **[Humayan Al Rosid](Fb.com/humayan01)**
 - 📲 
 <!---
 humayanalrosid/humayanalrosid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
