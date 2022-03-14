@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ***Javascripts*** 
 - 👯 I’m looking to collaborate on **Github** 
 - 💬 Ask me about **Python (Advanced beginner)**
-- 📫 How to reach me **humayanalrosid3@gmail.com**
+- 📫 How to reach me **[Say Hello!](mailto:humayanalrosid3@gmail.com?subject=Say%20Hello%20!!&body=Hello%20Buddy%20!!%20😄)**
 - ⚡ Fun fact: ***Mathematics Student*** 🙂
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
