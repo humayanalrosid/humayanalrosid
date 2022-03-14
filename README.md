@@ -2,16 +2,18 @@
 <h1 align="center">Hi 👋, I'm Humayan Al Rosid</h1>
 <h3 align="center">Python Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayanalrosid&label=Profile%20views&color=0e75b6&style=flat" alt="humayanalrosid" /> </p>
+![Profile views](https://gpvc.arturio.dev/humayanalrosid)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayanalrosid" alt="humayanalrosid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/humayanar" target="blank"><img src="https://img.shields.io/twitter/follow/humayanar?logo=twitter&style=for-the-badge" alt="humayanar" /></a> </p>
 
+- 🌱 I’m currently learning ***Javascripts*** 
+- 👯 I’m looking to collaborate on **Github** 
+- 💬 Ask me about **Python (Advanced beginner)**
 - 📫 How to reach me **humayanalrosid3@gmail.com**
-
-- ⚡ Fun fact **I'm in love with Python**
-
+- ⚡ Fun fact: ***Mathematics Student*** 🙂
+- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -31,10 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayanalrosid&show_icons=true&locale=en" alt="humayanalrosid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid&" alt="humayanalrosid" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/humayanalrosid)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid)  
 
-![Profile views](https://gpvc.arturio.dev/humayanalrosid)  
+
