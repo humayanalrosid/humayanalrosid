@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humayanalrosid
 - 👀 I’m interested in **_Django Development_**
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning **Python**
 - 📱 Fb.com/humayan01
 - 📲 
 <!---
