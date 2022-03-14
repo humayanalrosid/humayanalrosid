@@ -1,34 +1,30 @@
-<h1 align="center">Hi 👋, I'm Humayan Al Rosid</h1>
-<h3 align="center">Python Coder</h3>
+### Hi there 👋, I'm Humayan Al Rosid
+#### Python Coder
+From the age of 16, I started to learn about how to create apps, games, websites. Then I had familiar with programming languages. And I keep looking for ways to learn to programs. I first started learning Python programming. And now I’m on my way to learning Django development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayanalrosid&label=Profile%20views&color=0e75b6&style=flat" alt="humayanalrosid" /> </p>
+Skills: PYTHON/ WORDPRESS / JS / HTML / CSS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayanalrosid" alt="humayanalrosid" /></a> </p>
+- 🌱 I’m currently learning Javascripts 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Python  
+- 📫 How to reach me: humayanalrosid3@gmail.com 
+- ⚡ Fun fact: Mathematics Student 
 
-<p align="left"> <a href="https://twitter.com/humayanar" target="blank"><img src="https://img.shields.io/twitter/follow/humayanar?logo=twitter&style=for-the-badge" alt="humayanar" /></a> </p>
 
-- 📫 How to reach me **humayanalrosid3@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/humayanalrosid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/humayanalrosid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/humayan-al-rosid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/humayan01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/humayanar)  
 
-- ⚡ Fun fact **I'm in love with Python**
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=humayanalrosid)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/humayanalrosid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="humayanalrosid" height="30" width="40" /></a>
-<a href="https://twitter.com/humayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humayanar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/humayan-al-rosid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayan-al-rosid" height="30" width="40" /></a>
-<a href="https://fb.com/humayan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayan01" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humayanalrosid)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=humayanalrosid&show_icons=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humayanalrosid&show_icons=true&locale=en&layout=compact" alt="humayanalrosid" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=humayanalrosid)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayanalrosid&show_icons=true&locale=en" alt="humayanalrosid" /></p>
+![GitHub metrics](https://metrics.lecoq.io/humayanalrosid)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid&" alt="humayanalrosid" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid)  
 
+![Profile views](https://gpvc.arturio.dev/humayanalrosid)  
