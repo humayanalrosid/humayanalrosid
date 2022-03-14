@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @humayanalrosid
-- 👀 I’m interested in Django Development
+- 👀 I’m interested in **Django Development**
 - 🌱 I’m currently learning Python
 - 📱 Fb.com/humayan01
 - 📲 
