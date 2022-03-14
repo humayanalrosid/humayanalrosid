@@ -2,7 +2,7 @@
 - 👀 I’m interested in **_Django Development_**
 - 🌱 I’m currently learning **Python**
 - 📱 Facebook - **[Humayan Al Rosid](https://facebook.com/humayan01)**
-- 📲 Contact - **[Humayan Al Rosid](mailto:humayanalrosid3@gmail.com?subject=Greet&body=Nice%20To%20Meet%20You%20😊%20😊)**
+- 📲 Contact - **[Humayan Al Rosid](mailto:humayanalrosid3@gmail.com?subject=Greet&body=Nice%20To%20Meet%20You%20😊)**
 <!---
 humayanalrosid/humayanalrosid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
