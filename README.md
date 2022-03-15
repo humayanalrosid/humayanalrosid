@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Humayan Al Rosid</h1>
 <h3 align="center">Python Coder</h3>
 
-![Profile views](https://gpvc.arturio.dev/humayanalrosid)  
+<!-- ![Profile views](https://gpvc.arturio.dev/humayanalrosid)   -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayanalrosid" alt="humayanalrosid" /></a> </p>
 
