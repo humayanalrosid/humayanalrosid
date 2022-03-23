@@ -4,9 +4,9 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/humayanalrosid)   -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayanalrosid" alt="humayanalrosid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/humayanar" target="blank"><img src="https://img.shields.io/twitter/follow/humayanar?logo=twitter&style=for-the-badge" alt="humayanar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayanalrosid" alt="humayanalrosid" /></a> </p>
+ -->
+<!-- <p align="left"> <a href="https://twitter.com/humayanar" target="blank"><img src="https://img.shields.io/twitter/follow/humayanar?logo=twitter&style=for-the-badge" alt="humayanar" /></a> </p> -->
 
 - 🌱 I’m currently learning ***Javascripts*** 
 - 👯 I’m looking to collaborate on **Github** 
@@ -30,8 +30,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humayanalrosid)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=humayanalrosid&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=humayanalrosid&show_icons=true)   -->
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=humayanalrosid)   -->
 
