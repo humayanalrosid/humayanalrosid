@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Humayan Al Rosid</h1>
-<h3 align="center">Python Coder</h3>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/humayanalrosid)   -->
 
