@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[Say Hello!](mailto:humayanalrosid3@gmail.com?subject=Say%20Hello%20!!&body=Hello%20Buddy%20!!%20😄)**
 
-- ⚡ Fun fact : **I think I'm Lazy.**
+- ⚡ Fun fact : **I'm Lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
