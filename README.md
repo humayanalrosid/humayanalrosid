@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Humayan Al Rosid</h1>
-<h3 align="center">A passionate Django developer.</h3>
 
-- 🌱 I’m currently learning **Django REST framework**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python**
 
